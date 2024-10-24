@@ -1,4 +1,3 @@
-// @flow strict
 import Link from 'next/link';
 import { CgGitFork } from "react-icons/cg";
 import { IoStar } from "react-icons/io5";
@@ -12,7 +11,7 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Developed Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/saad-dev07" className="text-[#16f2b3]">Me</Link>
+            © Designed & Developed Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/saad-devs07" className="text-[#16f2b3]">Me</Link>
           </p>
           <div className="flex items-center gap-5">
             <Link

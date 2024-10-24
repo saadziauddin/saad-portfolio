@@ -1,8 +1,5 @@
-// @flow strict
-
 import { personalData } from "@/utils/data/personal-data";
 import Image from "next/image";
-
 
 function AboutSection() {
   return (
@@ -18,8 +15,12 @@ function AboutSection() {
           <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
             Who I am?
           </p>
-          <p className="text-gray-200 text-sm lg:text-lg">
-            {personalData.description}
+          <p className="text-gray-300 text-sm lg:text-lg font-extralight">
+            {/* {personalData.description} */}
+            I'm Saad, a passionate and professional programmer with a self-learning attitude. I specialize in the MERN stack and DevOps, with a strong focus on JavaScript. I love exploring new technologies and solving complex problems, constantly striving to make the web more accessible.
+            <br />
+            <br />
+            A quick learner, I enjoy working across all web development stacks and adapting to new challenges. My drive for continuous improvement pushes me to stay ahead of industry trends, always looking for ways to enhance the quality and efficiency of my work. My commitment to quality and excellence ensures that every project I work on is a success.
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
