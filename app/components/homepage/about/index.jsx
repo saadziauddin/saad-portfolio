@@ -15,8 +15,7 @@ function AboutSection() {
           <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
             Who I am?
           </p>
-          <p className="text-gray-300 text-sm lg:text-lg font-extralight">
-            {/* {personalData.description} */}
+          <p className="text-gray-200 text-sm lg:text-lg font-extralight">
             I'm Saad, a passionate and professional programmer with a self-learning attitude. I specialize in the MERN stack and DevOps, with a strong focus on JavaScript. I love exploring new technologies and solving complex problems, constantly striving to make the web more accessible.
             <br />
             <br />
@@ -29,7 +28,7 @@ function AboutSection() {
             width={360}
             height={160}
             alt="Saad Image"
-            className="rounded-md transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
+            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
         </div>
       </div>

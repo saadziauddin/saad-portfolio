@@ -7,7 +7,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Nayab Fashion (E-commerce)',
-        description: 'I have designed and developed a full-stack web application for Nayab Fashion (Clothing Store). I created this website using Vite.js, React.js, Express.js, Node.js, JavaScript, Tailwind CSS and MongoDB. I added role-based authentication for Admins, Sub-Admins, Customers, including userfriendly dashboard, online payment integration. I added currency feature for multiple countries and many more features I added in this. Currently working on it will be live soon...',
+        description: 'I have designed and developed a full-stack web application for Nayab Fashion (Clothing Store). I created this website using Vite.js, React.js, Express.js, Node.js, JavaScript, Tailwind CSS and MongoDB. I added role-based authentication for Admins, Sub-Admins, Customers, including userfriendly dashboard, online payment integration. I added currency feature for multiple countries and many more features I added in this project. Currently working on it will be live soon...',
         tools: ['Vite.js', 'React.js', 'Express.js', 'Node.js', 'Tailwind CSS', 'MongoDB', 'JavaScript'],
         role: 'Full Stack Developer',
         code: '',
@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'Blackmount Films (Event Mangement Company)',
-        description: 'I have designed and developed a full-stack web app for Blackmount Films (Corporate, Food, Wedding, Indoor and Outdoor (Photography, Videography & Drone Shoots)). I created this website using Vite.js, React.js, Express.js, Node.js CSS3, JavaScript, Tailwind CSS and MongoDB. I added role-based authentication for users and admin, subscription plans, event booking system and payment integration, added currency feature for multiple countries and many more features I added in this.',
+        description: 'I have designed and developed a full-stack web app for Blackmount Films (Corporate, Food, Wedding, Indoor and Outdoor (Photography, Videography & Drone Shoots)). I created this website using Vite.js, React.js, Express.js, Node.js CSS3, JavaScript, Tailwind CSS and MongoDB. I added role-based authentication for users and admin, subscription plans, event booking system and payment integration, added currency feature for multiple countries and many more features I added in this project. Currently working on it will be live soon...',
         tools: ['Vite.js', 'React.js', 'Express.js', 'Node.js', 'Tailwind CSS', 'MongoDB', 'JavaScript'],
         role: 'Full Stack Developer',
         code: '',
