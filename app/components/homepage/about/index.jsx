@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function AboutSection() {
   return (
-    <div id="about" className="my-12 lg:my-16 relative">
+    <div id="about" className="my-0 md:my-12 lg:my-16 relative">
       <div className="hidden lg:flex flex-col items-center absolute top-16 -right-8">
         <span className="bg-[#1a1443] w-fit text-white rotate-90 p-2 px-5 text-xl rounded-md">
           ABOUT ME
@@ -16,19 +16,22 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg font-extralight">
-            I'm Saad, a passionate and professional programmer with a self-learning attitude. I specialize in the MERN stack and DevOps, with a strong focus on JavaScript. I love exploring new technologies and solving complex problems, constantly striving to make the web more accessible.
+            I'm Saad, a passionate and innovative programmer with a relentless drive for excellence and a self-learning attitude. With expertise in the MERN stack, DevOps, and a deep command of JavaScript, I specialize in crafting cutting-edge, scalable applications and solving intricate problems with creativity and precision.
             <br />
             <br />
-            A quick learner, I enjoy working across all web development stacks and adapting to new challenges. My drive for continuous improvement pushes me to stay ahead of industry trends, always looking for ways to enhance the quality and efficiency of my work. My commitment to quality and excellence ensures that every project I work on is a success.
+            Fueled by curiosity and a commitment to continuous growth, I thrive on exploring emerging technologies and pushing the boundaries of what's possible. My adaptability and full-stack proficiency enable me to excel in diverse environments, delivering high-impact solutions that are efficient, accessible, and future-ready.
+            <br />
+            <br />
+            I’m inspired by the opportunity to create meaningful digital experiences, and my collaborative mindset ensures success in every project I undertake. Whether leading complex initiatives or contributing as part of a team, I bring a unique blend of technical expertise, strategic thinking, and a passion for innovation to the table.
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
             src={personalData.profile}
-            width={360}
-            height={160}
-            alt="Saad Image"
-            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
+            width={480}
+            height={180}
+            alt="Profile Image"
+            className="rounded-lg  transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
         </div>
       </div>

@@ -17,11 +17,11 @@ function HeroSection() {
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-24">
           <h2 className="text-xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.4rem] lg:leading-[3.5rem]">
             Hi, <br />
-            This is {' '}
+            I'm {' '}
             <span className=" text-pink-400">{personalData.name}</span>
-            {` , I'm a Professional `}
+            {` , A Professional `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
-            .
+            {` and MERN Expert. `}
           </h2>
 
           <div className="my-12 flex items-center gap-5">

@@ -8,7 +8,7 @@ function Navbar() {
           <Link
             href="/"
             className=" text-[#16f2b3] text-3xl font-bold">
-            saad-dev07
+            Saad Ziauddin
           </Link>
         </div>
 

@@ -3,8 +3,8 @@ export const contactsData = {
     phone: '+923052586061',
     address: 'Defence View Society, Phase 1, Karachi.',
     linkedIn: 'https://www.linkedin.com/',
-    github: 'https://github.com/saad-devs07',
-    twitter: 'https://twitter.com/',
+    github: 'https://github.com/saadziauddin',
+    twitter: 'https://twitter.com/@saad_dev07',
     dev: 'https://dev.to/saadziauddin',
     dev: "saadziauddin"
 }

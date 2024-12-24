@@ -8,7 +8,7 @@ export const educations = [
   {
     id: 2,
     title: "Advance Diploma In Software Engineering (ADSE)",
-    duration: "2022 - Present",
+    duration: "2022 - 2025",
     institution: "Aptech Learning",
   },
   {
