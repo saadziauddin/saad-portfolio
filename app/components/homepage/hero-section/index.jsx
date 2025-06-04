@@ -103,8 +103,6 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React Native</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NuxtJS</span>
@@ -112,6 +110,14 @@ function HeroSection() {
                 <span className="text-amber-300">RESTful API's</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Redux Toolkit</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">ASP.NET Core</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">ASP.NET MVC</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">pgAdmin</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PostgreSQL</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -130,8 +136,6 @@ function HeroSection() {
                 <span className="text-amber-300">GitHub</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GitLab</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">BitBucket</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Google Cloud Platform (GCP)</span>
                 <span className="text-gray-400">{"', '"}</span>
