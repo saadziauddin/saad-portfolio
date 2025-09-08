@@ -103,9 +103,9 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">React Native</span>
+                <span className="text-amber-300">NestJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NuxtJS</span>
+                <span className="text-amber-300">React Native</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">RESTful API's</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -115,8 +115,6 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">ASP.NET MVC</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">pgAdmin</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PostgreSQL</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
@@ -125,13 +123,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">SQL Server</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Apollo</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">GraphQL</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Tailwind CSS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Material UI</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GitHub</span>
                 <span className="text-gray-400">{"', '"}</span>
